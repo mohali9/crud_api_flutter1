@@ -1,6 +1,8 @@
-# crud_api_flutter1
-
 A new Flutter project.
+
+# crud_api_flutter1
+# Pakai Api http://api.bengkelrobot.net:8001/api/profile
+# http://api.bengkelrobot.net:8001/api/profile/:id
 
 ## Getting Started
 
